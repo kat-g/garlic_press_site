@@ -1,3 +1,28 @@
 h1{
- font-family: 'Lucida Console';
+ font-family: 'Press Start 2P';
+ text-align: center;
+ margin-top: 2vw;
+}
+p{
+}
+.container-fluid{
+  margin-top: 2.5vw;
+  width: 60vw;
+  max-height: 100vw;
+  padding-left: 14vw;
+  padding-right: 14vw;
+}
+
+.carousel-item{
+max-height: 33vw;
+width: 25vw;
+
+}
+.carousel{
+  margin:auto;
+  width:25vw;
+  padding-top: 1vw;
+  padding-bottom: 2.5vw;
+  border: solid 2px;
+  border-style: dashed;
 }
