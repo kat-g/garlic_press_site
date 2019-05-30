@@ -3,12 +3,17 @@ h1{
  text-align: center;
  margin-top: 2vw;
 }
+h4{
+  font-family: 'Press Start 2P';
+  text-align: center;
+
+}
 p{
   text-align: center;
   color: black;
   font-size: 1.2vw;
   max-width: 50vw;
-  font-family: 'Roboto Mono';
+  font-family: 'IBM Plex Mono';
 }
 .container-fluid{
   margin-top: 2.5vw;
@@ -19,14 +24,23 @@ p{
 }
 
 .carousel-item{
-height: 37vw;
+height: 39vw;
 width: auto;
-
+border: solid;
+border-style: dashed;
 }
 .carousel{
   margin:auto;
   width:25vw;
   margin-top:1vw;
-  border: solid 2px;
-  border-style: dashed;
+
+}
+
+#mc_embed_signup{
+
+  font-family: 'Press Start 2P';
+  font-size: 1vw;
+}
+#mce-EMAIL{
+  font-family: 'IBM Plex Mono';
 }
